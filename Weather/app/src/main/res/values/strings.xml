@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="date">date</string>
+    <string name="time">time</string>
+    <string name="hallo_back">Hallo back!</string>
+    <string name="city">City</string>
+    <string name="condition">condition</string>
+    <string name="_23">23℃</string>
+    <string name="wind_kph">wind_kph</string>
+    <string name="pressure_hpa">pressure_hpa</string>
+    <string name="humidity">humidity_%</string>
+    <string name="search_for_other_city">search weather for other city</string>
+    <string name="cardtime">CardTime</string>
+    <string name="cardtemp">CardTemp</string>
+
+    <string name="time_placeholder">%s</string>
+    <string name="temperature_placeholder">%s ℃</string>
+    <string name="wind_speed_placeholder">%s Km/h</string>
+    <string name="pressure_placeholder">%s hPa</string>
+    <string name="humidity_placeholder">%s %%</string>
+    <string name="current_city">current city</string>
+    <string name="current_temperature">current temperature</string>
+    <string name="get_weather_info_for_your_location">get more weather info for your location</string>
+</resources>

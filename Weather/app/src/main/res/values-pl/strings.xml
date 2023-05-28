@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pogoda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_city_name">Wpisz nazwę miasta</string>
+    <string name="date">data</string>
+    <string name="time">godzina</string>
+    <string name="hallo_back">Witaj z powrotem!</string>
+    <string name="city">Miasto</string>
+    <string name="condition">stan pogody</string>
+    <string name="_23">23℃</string>
+    <string name="wind_kph">wiatr_kph</string>
+    <string name="pressure_hpa">ciśnienie_hpa</string>
+    <string name="humidity">wilgotność_%</string>
+    <string name="search_for_other_city">wyszukaj pogodę dla innego miasta</string>
+    <string name="cardtime">Godzina</string>
+    <string name="cardtemp">Temperatura</string>
+
+    <string name="time_placeholder">%s</string>
+    <string name="temperature_placeholder">%s ℃</string>
+    <string name="wind_speed_placeholder">%s Km/h</string>
+    <string name="pressure_placeholder">%s hPa</string>
+    <string name="humidity_placeholder">%s %%</string>
+    <string name="current_city">twoje miasto</string>
+    <string name="current_temperature">aktualna temperatura</string>
+    <string name="get_weather_info_for_your_location">uzyskaj więcej informacji o pogodzie dla Twojej lokalizacji</string>
+
+</resources>
